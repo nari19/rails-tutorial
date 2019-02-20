@@ -22,3 +22,15 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+#Rails tutorial
+
+- https://railstutorial.jp/chapters/beginning?version=5.1
+
+-  git checkout -f (前回コミットしたものに戻す)
+
+
+|||
+|-|-|
+|第1章|2/19|

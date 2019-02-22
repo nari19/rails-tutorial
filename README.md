@@ -30,8 +30,11 @@ Things you may want to cover:
 
 -  git checkout -f (前回コミットしたものに戻す)
 
+- bundle exec rails console (ctrl+D または　exit で抜ける)
+
 
 |||
 |-|-|
 |第1章|2/19|
-|第2章|2.2|
+|第2章|2/21|
+|第3章||
